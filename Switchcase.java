@@ -10,7 +10,7 @@ class Switchcase
             System.out.println("Case 1");
             break;
     case 2:
-            System.out.println("Case 2");
+            System.out.println("Case 2"); //added by subiya
             break;
     case 3:
             System.out.println("Case 3");
